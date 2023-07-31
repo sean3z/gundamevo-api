@@ -1,0 +1,97 @@
+{
+    "penaltyRemainingTime": "00:00:00",
+    "penaltySubtractiveBattleRating": 0,
+    "phase": 0,
+    "secessionMatchResult": {
+        "appliedMatchResult": {
+            "battleRatingStatus": {
+                "afterBattleRatingProgress": {
+                    "battleRating": 0,
+                    "placementMatchCount": 0,
+                    "ranking": 0,
+                    "tierType": 0
+                },
+                "beforeBattleRatingProgress": {
+                    "battleRating": 0,
+                    "placementMatchCount": 0,
+                    "ranking": 0,
+                    "tierType": 0
+                },
+                "disAdvantageFactorReason": 0,
+                "isPlacementMatch": false,
+                "newtypeBottomBattleRating": 0,
+                "newtypeBottomNum": 0,
+                "newtypeTopBattleRating": 0,
+                "remainCountExamMatch": 0
+            },
+            "challengeResults": [],
+            "challengeRewardBattlePassExp": 0,
+            "lvStatus": {
+                "afterProgress": {
+                    "expInlevel": 0,
+                    "level": 0,
+                    "nextExp": 0,
+                    "totalExp": 0
+                },
+                "beforeProgress": {
+                    "expInlevel": 0,
+                    "level": 0,
+                    "nextExp": 0,
+                    "totalExp": 0
+                },
+                "gainExpDetail": {
+                    "addTotalExp": 0,
+                    "award": 0,
+                    "chosenByMVP": 0,
+                    "kill": 0,
+                    "matchDraw": 0,
+                    "matchLose": 0,
+                    "matchWin": 0,
+                    "matchWinDaily": 0,
+                    "recover": 0,
+                    "roundDraw": 0,
+                    "roundLose": 0,
+                    "roundWin": 0
+                }
+            },
+            "playerId": 0,
+            "seasonPassStatus": {
+                "afterProgress": {
+                    "expInlevel": 0,
+                    "level": 0,
+                    "nextExp": 0,
+                    "totalExp": 0
+                },
+                "beforeProgress": {
+                    "expInlevel": 0,
+                    "level": 0,
+                    "nextExp": 0,
+                    "totalExp": 0
+                },
+                "gainExpDetail": {
+                    "addTotalExp": 0,
+                    "award": 0,
+                    "chosenByMVP": 0,
+                    "kill": 0,
+                    "matchDraw": 0,
+                    "matchLose": 0,
+                    "matchWin": 0,
+                    "matchWinDaily": 0,
+                    "recover": 0,
+                    "roundDraw": 0,
+                    "roundLose": 0,
+                    "roundWin": 0
+                },
+                "isPremium": false,
+                "passId": 0,
+                "receivedRewardLevels": []
+            }
+        },
+        "connectionStateWhenResult": 0,
+        "gameMode": 0,
+        "mapId": null,
+        "matchType": 0,
+        "result": 2,
+        "teamSide": 2
+    }
+}
